@@ -1,0 +1,258 @@
+[
+    {
+      "date": 1,
+      
+      "workers": [
+      
+      ]
+    },
+    {
+         
+      "date": 2,
+      "workers": [
+     
+      ]
+    },  {
+        
+        "date": 3,
+        "workers": [
+        
+        ]
+      },
+      {
+        
+        "date": 4,
+        "workers": [
+       
+        ]
+      },  {
+        
+        "date": 5,
+        "workers": [
+          
+        ]
+      },
+      {
+        
+        "date": 6,
+        "workers": [
+       
+        ]
+      },{
+        "date": 7,
+        "workers": [
+        
+        ]
+      },
+      {
+        "date": 8,
+        "workers": [
+       
+        ]
+      },  {
+        "date": 9,
+        "day":"Fredag",
+        "workers": [
+            {
+                "name": "Nils",
+                "hours": { "start": "1500", "end":"01:30"},
+                "info": ""
+              },
+            {
+                "name": "Tuva",
+                "hours": { "start": "1500", "end":"01:30"},
+                "info": ""
+              },
+            {
+                "name": "Ansal",
+                "hours": { "start": "1800", "end":"01:30"},
+                "info": ""
+              }
+          
+        ]
+      },
+      {
+        "date": 10,
+        "day":"Lördag",
+        "workers": [
+            {
+                "name": "Dexter",
+                "hours": { "start": "1100", "end":"01:30"},
+                "info": ""
+              },
+            {
+                "name": "Tuva",
+                "hours": { "start": "1500", "end":"01:30"},
+                "info": ""
+              },
+            {
+                "name": "Ansal",
+                "hours": { "start": "1800", "end":"01:30"},
+                "info": ""
+              }
+        ]
+      },{
+        "date": 11,
+        "workers": [
+        
+        ]
+      },
+      {
+        "date": 12,
+        "workers": [
+       
+        ]
+      },  {
+        "date": 13,
+        "workers": [
+          
+        ]
+      },
+      {
+        "date": 14,
+        "workers": [
+       
+        ]
+      },
+      {
+        "date": 15,
+        "workers": [
+       
+        ]
+      }, {
+        "date": 16,
+        "day":"Fredag",
+        "workers": [
+            {
+                "name": "Nils",
+                "hours": { "start": "1500", "end":"01:30"},
+                "info": ""
+              },
+            {
+                "name": "Tuva",
+                "hours": { "start": "1500", "end":"01:30"},
+                "info": ""
+              },
+            {
+                "name": "Ansal",
+                "hours": { "start": "1800", "end":"01:30"},
+                "info": ""
+              },
+            {
+                "name": "dexter",
+                "hours": { "start": "1800", "end":"01:30"},
+                "info": ""
+              }
+          
+        ]
+      },
+      {
+        "date": 17,
+        "day":"Lördag",
+        "workers": [
+            {
+                "name": "Nils",
+                "hours": { "start": "1500", "end":"01:30"},
+                "info": ""
+              },
+            {
+                "name": "Tuva",
+                "hours": { "start": "1700", "end":"01:30"},
+                "info": ""
+              },
+            {
+                "name": "Ansal",
+                "hours": { "start": "1100", "end":"01:30"},
+                "info": ""
+              }, {
+                "name": "dexter",
+                "hours": { "start": "1800", "end":"01:30"},
+                "info": ""
+              }
+              
+        ]
+      },{
+        "date": 18,
+        "workers": [
+        
+        ]
+      },
+      {
+        "date": 19,
+        "workers": [
+       
+        ]
+      },  {
+        "date": 20,
+        "workers": [
+          
+        ]
+      },
+      {
+        "date": 21,
+        "workers": [
+       
+        ]
+      },
+      {
+        "date": 22,
+        "workers": [
+       
+        ]
+      },
+      {
+        "date": 23,
+        "day":"Fredag",
+        "workers": [
+            {
+                "name": "Nils",
+                "hours": { "start": "1500", "end":"01:30"},
+                "info": ""
+              },
+            {
+                "name": "Tuva",
+                "hours": { "start": "1700", "end":"01:30"},
+                "info": ""
+              },
+            {
+                "name": "Ansal",
+                "hours": { "start": "1100", "end":"01:30"},
+                "info": ""
+              }, {
+                "name": "dexter",
+                "hours": { "start": "1800", "end":"01:30"},
+                "info": ""
+              }
+              
+        ]
+      },
+      {
+        "date": 24,
+        "day":"Lördag",
+        "workers": [
+            {
+                "name": "Nils",
+                "hours": { "start": "1500", "end":"01:30"},
+                "info": ""
+              },
+            {
+                "name": "Tuva",
+                "hours": { "start": "1700", "end":"01:30"},
+                "info": ""
+              },
+            {
+                "name": "Ansal",
+                "hours": { "start": "1100", "end":"01:30"},
+                "info": ""
+              }, {
+                "name": "dexter",
+                "hours": { "start": "1800", "end":"01:30"},
+                "info": ""
+              }
+              
+        ]
+      }
+  ]
+  
+  
+  

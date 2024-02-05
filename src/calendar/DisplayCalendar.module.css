@@ -1,0 +1,34 @@
+.container {
+    
+    border: 1px solid #ccc;
+    padding: 16px;
+    
+  }
+.inner_container {
+    display:flex;
+    gap:2rem;
+    flex-wrap:wrap;
+   
+  }
+  .each_day_container{
+    display:flex;
+    flex-direction:column;
+    gap:1rem;
+    border: 1px solid #ccc;
+    padding: 16px;
+    width:12rem;
+  }
+  .each_day_container_weekend{
+    display:flex;
+    flex-direction:column;
+    gap:1rem;
+    border: 1px solid #ccc;
+    padding: 16px;
+    width:12rem;
+    background-color:blueviolet;
+  }
+  .each_worker_container{
+    border: 1px solid green;
+    padding: 16px;
+    background-color:black;
+  }
