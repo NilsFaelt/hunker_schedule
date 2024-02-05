@@ -55,10 +55,8 @@ export const EachDay: FC<{ schedule: Schedule }> = ({ schedule }) => {
               <span className={styles.span}>Tid:</span> {worker.hours.start} -{" "}
               {worker.hours.end}
             </p>
-            <p>
-              {" "}
-              <span className={styles.span}>Info:</span> {worker.info}
-            </p>
+
+            <p>{worker.info}</p>
           </div>
         );
       })}

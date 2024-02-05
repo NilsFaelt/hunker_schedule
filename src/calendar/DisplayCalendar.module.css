@@ -26,7 +26,7 @@
   }
   .each_day_container_weekend{
     display:flex;
-    flex-direction:column;
+    flex-direction:column;   
     gap:1rem;
     border: 1px solid #ccc;
     padding: 16px;
@@ -34,10 +34,16 @@
     background-color:blueviolet;
   }
   .each_worker_container{
+    color:white;
+    display:flex;
+    flex-direction:column;   
+    align-items: flex-start;
     border: 1px solid green;
     padding: 16px;
     background-color:black;
   }
   .span{
     color:yellow;
+    margin:0;
+    padding:0;
   }
