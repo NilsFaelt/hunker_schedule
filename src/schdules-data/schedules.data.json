@@ -78,7 +78,7 @@
             {
                 "name": "Dexter",
                 "hours": { "start": "1100", "end":"01:30"},
-                "info": ""
+                "info": "Första tjing på att gå av om de är lugnt "
               },
             {
                 "name": "Tuva",
@@ -163,7 +163,7 @@
             {
                 "name": "Ansal",
                 "hours": { "start": "1100", "end":"01:30"},
-                "info": ""
+                "info": "Första tjing på att gå av om de är lugnt "
               }, {
                 "name": "dexter",
                 "hours": { "start": "1800", "end":"01:30"},
@@ -210,14 +210,9 @@
                 "info": ""
               },
             {
-                "name": "Tuva",
-                "hours": { "start": "1700", "end":"01:30"},
-                "info": ""
-              },
-            {
                 "name": "Ansal",
                 "hours": { "start": "1100", "end":"01:30"},
-                "info": ""
+                "info": "Första tjing på att gå av om de är lugnt "
               }, {
                 "name": "dexter",
                 "hours": { "start": "1800", "end":"01:30"},
@@ -236,14 +231,9 @@
                 "info": ""
               },
             {
-                "name": "Tuva",
-                "hours": { "start": "1700", "end":"01:30"},
-                "info": ""
-              },
-            {
                 "name": "Ansal",
                 "hours": { "start": "1100", "end":"01:30"},
-                "info": ""
+                "info": "Första tjing på att gå av om de är lugnt "
               }, {
                 "name": "dexter",
                 "hours": { "start": "1800", "end":"01:30"},
@@ -251,7 +241,28 @@
               }
               
         ]
-      }
+      },{
+        "date": 25,
+        "workers": [
+          
+        ]
+      },
+      {
+        "date": 26,
+        "workers": [
+       
+        ]
+      },
+      {
+        "date": 27,
+        "workers": [
+       
+        ]
+      },  {
+        "date": 28,
+        "workers": [
+       
+        ]}
   ]
   
   

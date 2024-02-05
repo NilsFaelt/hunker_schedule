@@ -45,10 +45,20 @@ export const EachDay: FC<{ schedule: Schedule }> = ({ schedule }) => {
       {schedule.workers?.map((worker) => {
         return (
           <div className={styles.each_worker_container}>
-            {worker.name && <p>Namn: {worker.name}</p>}
+            {worker.name && (
+              <p>
+                {" "}
+                <span className={styles.span}>Namn:</span> {worker.name}
+              </p>
+            )}
             <p>
-              Tid: {worker.hours.start} - {worker.hours.end}
-            </p>{" "}
+              <span className={styles.span}>Tid:</span> {worker.hours.start} -{" "}
+              {worker.hours.end}
+            </p>
+            <p>
+              {" "}
+              <span className={styles.span}>Info:</span> {worker.info}
+            </p>
           </div>
         );
       })}

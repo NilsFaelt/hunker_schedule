@@ -1,14 +1,19 @@
 .container {
-    
+
     border: 1px solid #ccc;
     padding: 16px;
+    background-color:teal;
     
   }
 .inner_container {
     display:flex;
+    flex-direction:row;
+    justify-content: center;
+    display:flex;
     gap:2rem;
     flex-wrap:wrap;
-   
+
+
   }
   .each_day_container{
     display:flex;
@@ -17,6 +22,7 @@
     border: 1px solid #ccc;
     padding: 16px;
     width:12rem;
+    background-color:grey;
   }
   .each_day_container_weekend{
     display:flex;
@@ -31,4 +37,7 @@
     border: 1px solid green;
     padding: 16px;
     background-color:black;
+  }
+  .span{
+    color:yellow;
   }
