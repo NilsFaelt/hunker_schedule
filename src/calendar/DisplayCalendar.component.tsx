@@ -37,29 +37,6 @@ export const EachDay: FC<{ schedule: Schedule }> = ({ schedule }) => {
           ? styles.each_day_container_weekend
           : styles.each_day_container
       }
-    >
-      <div>
-        <h3>{schedule.date} e</h3>
-        <h5>{schedule.day ? schedule.day : ""} </h5>
-      </div>
-      {schedule.workers?.map((worker) => {
-        return (
-          <div className={styles.each_worker_container}>
-            {worker.name && (
-              <p>
-                {" "}
-                <span className={styles.span}>Namn:</span> {worker.name}
-              </p>
-            )}
-            <p>
-              <span className={styles.span}>Tid:</span> {worker.hours.start} -{" "}
-              {worker.hours.end}
-            </p>
-
-            <p>{worker.info}</p>
-          </div>
-        );
-      })}
-    </div>
+    ></div>
   );
 };

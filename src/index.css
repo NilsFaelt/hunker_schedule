@@ -5,7 +5,7 @@
 
   color-scheme: light dark;
   color: white;
-  background-color: #242424;
+  background-color: black;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -32,8 +32,9 @@ body {
 }
 
 h1 {
-  font-size: 3.2em;
+  font-size: 2.2em;
   line-height: 1.1;
+  color:white;
 }
 
 button {
@@ -43,7 +44,7 @@ button {
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
-  background-color: #1a1a1a;
+  background-color: black;
   cursor: pointer;
   transition: border-color 0.25s;
 }

@@ -1,12 +1,12 @@
 import "./App.css";
-import { DisplayCalendar } from "./calendar/DisplayCalendar.component";
-import scheduleFeb from "./schdules-data/schedules.data.json";
+import "../src/assets/main_logo_transparent.svg";
 
 function App() {
   return (
     <div>
-      <h1>HUNKER SCHEMA</h1>
-      <DisplayCalendar month='Februari' schedule={scheduleFeb} />
+      <img width={120} src='../src/assets/main_logo_transparent.svg' />
+      {/* <MainLogo /> */}
+      <h1>WEBSITE COMING SOON</h1>
     </div>
   );
 }
